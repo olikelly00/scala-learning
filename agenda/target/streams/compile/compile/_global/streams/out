@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/agenda/src/main/scala/Agenda.scala:19:19: not found: value meeting[0m
+[0m[[0m[31merror[0m] [0m[0m    println(s"  ${meeting.time}: ${meeting.name}")[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/agenda/src/main/scala/Agenda.scala:19:36: not found: value meeting[0m
+[0m[[0m[31merror[0m] [0m[0m    println(s"  ${meeting.time}: ${meeting.name}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
