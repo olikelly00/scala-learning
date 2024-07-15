@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzTest, org.scalatest.tools.Framework$$anon$1@12bebed7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFizzBuzzTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists the numbers up to one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists the numbers up to two[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists the numbers up to first fizz[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists the numbers up to first buzz[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists numbers / fizz-buzzes correctly up to 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lists numbers / fizz-buzzes correctly up to 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 3 seconds, 48 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FizzBuzzTest[0m
