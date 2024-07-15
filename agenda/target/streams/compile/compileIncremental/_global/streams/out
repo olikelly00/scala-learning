@@ -20,13 +20,13 @@
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Meeting, Main, Agenda[0m
 [0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/olikelly/Documents/Coding/scala/agenda/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/olikelly/Documents/Coding/scala/fizzBuzz/agenda/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.9.5:compile for Scala 2.12.18[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4cff32d3 for Scala compiler version 2.12.18[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 560606df for Scala compiler version 2.12.18[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/olikelly/.sbt/boot/scala-2.12.18/lib/scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	/Users/olikelly/Documents/Coding/scala/agenda/target/scala-2.12/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.906997384 s[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/olikelly/Documents/Coding/scala/fizzBuzz/agenda/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.904317757 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
