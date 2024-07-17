@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.matchers.should.Matchers[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:2:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.wordspec.AnyWordSpec[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:4:34: not found: type AnyWordSpec[0m
+[0m[[0m[31merror[0m] [0m[0mclass ReceiptPrinterSpec extends AnyWordSpec with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:4:51: not found: type Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mclass ReceiptPrinterSpec extends AnyWordSpec with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:5:34: not found: type CafeDetails[0m
+[0m[[0m[31merror[0m] [0m[0m  val coffeeConnectionCafe = new CafeDetails([0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:28:22: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m  "A ReceiptPrinter" should {[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:29:24: value which is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    "format a receipt" which {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:30:39: value in is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m      "contains the name of the cafe" in {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/olikelly/Documents/Coding/scala/receiptPrinter/src/test/scala/receiptPrinterTest.scala:31:27: not found: type ReceiptPrinter[0m
+[0m[[0m[31merror[0m] [0m[0m        val printer = new ReceiptPrinter([0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

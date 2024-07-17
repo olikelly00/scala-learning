@@ -1,0 +1,4 @@
+[debug] [receiptprinter-test] Classpath dependencies List()
+[debug] [receiptprinter-test] Dependencies from configurations List(receiptprinter)
+[debug] Bloop wrote the configuration of project 'receiptprinter-test' to '/Users/olikelly/Documents/Coding/scala/receiptPrinter/.bloop/receiptprinter-test.json'
+[success] Generated .bloop/receiptprinter-test.json

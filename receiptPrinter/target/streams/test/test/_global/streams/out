@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReceiptPrinterSpec, org.scalatest.tools.Framework$$anon$1@143b50e7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReceiptPrinterSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA ReceiptPrinter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should format a receipt which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - contains the name of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - contains the address of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - contains the phone number of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - contains the prices from the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 650 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptPrinterSpec[0m
